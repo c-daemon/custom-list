@@ -1,0 +1,16 @@
+.card-container {
+  height: 410px;
+  overflow-y: scroll;
+  padding: 5px;
+}
+.list-header {
+  background-color: lightgrey;
+}
+.list-header > h1 {
+  padding: 20px;
+}
+.action-container {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}

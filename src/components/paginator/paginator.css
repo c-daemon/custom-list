@@ -1,0 +1,18 @@
+.paginator {
+  display: flex;
+}
+
+.paginator > li {
+  list-style-type: none;
+  margin: 5px;
+  cursor: pointer;
+  color: rgb(81, 196, 241);
+}
+
+.paginator-input {
+  width: 50px;
+}
+
+.active {
+  color: black !important;
+}
