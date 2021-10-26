@@ -2,7 +2,7 @@
   "name": "custom-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://c-daemon.github.io/custom-list",
+  "homepage": "https://c-daemon.github.io/custom-list",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-solid-svg-icons": "^5.15.4",
